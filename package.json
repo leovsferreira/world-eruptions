@@ -1,0 +1,28 @@
+{
+  "name": "world-eruptions",
+  "version": "1.0.0",
+  "description": "World eruptions since 1960",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leovsferreira/world-eruptions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leovsferreira/world-eruptions/issues"
+  },
+  "homepage": "https://github.com/leovsferreira/world-eruptions#readme",
+  "dependencies": {
+    "three": "^0.174.0"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  }
+}
